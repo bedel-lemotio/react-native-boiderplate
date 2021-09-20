@@ -1,0 +1,15 @@
+{
+
+  "dialog_start": "------------------------------------------------------------------------------------",
+  "dialog_required_information": "Information obligatoire",
+  "dialog_cancel": "Fermer",
+  "dialog_description_dialog": "Veuillez rensiegner le prénom des joueurs (au moins 2) avant de commencer la partie.",
+
+  "dialog_confirm_title": "êtes-vous sûr de vouloir \n quitter la partie ?",
+  "dialog_confirm_btn_yes": "Oui",
+  "dialog_confirm_btn_no": "Non",
+  "dialog_are_you_sure": "Vous êtes sûr ?",
+
+  "dialog_end": "------------------------------------------------------------------------------------"
+
+}

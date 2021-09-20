@@ -1,0 +1,15 @@
+{
+
+  "dialog_start": "-------------------------------------------------------------------------------",
+  "dialog_required_information": "Required information",
+  "dialog_cancel": "Cancel",
+  "dialog_description_dialog": "Please enter the first names of the players (at least 2) before starting the game.",
+
+  "dialog_confirm_title": "Are you sure you want to leave the game?",
+  "dialog_confirm_btn_yes": "Yes",
+  "dialog_confirm_btn_no": "No",
+  "dialog_are_you_sure": "Are you sure?",
+
+  "dialog_end": "----------------------------------------------------------------------------------"
+
+}
